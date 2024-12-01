@@ -1,0 +1,8 @@
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\net8.0\WeatherMonitoringStation.csproj.AssemblyReference.cache
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\net8.0\WeatherMonitoringStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\net8.0\WeatherMonitoringStation.AssemblyInfoInputs.cache
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\net8.0\WeatherMonitoringStation.AssemblyInfo.cs
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\net8.0\WeatherMonitoringStation.csproj.CoreCompileInputs.cache
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\net8.0\WeatherMonitoringStation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\net8.0\WeatherMonitoringStation.RazorAssemblyInfo.cache
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\net8.0\WeatherMonitoringStation.RazorAssemblyInfo.cs

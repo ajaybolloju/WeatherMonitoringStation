@@ -1,0 +1,5 @@
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\netcoreapp3.1\WeatherMonitoringStation.csproj.AssemblyReference.cache
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\netcoreapp3.1\WeatherMonitoringStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\netcoreapp3.1\WeatherMonitoringStation.AssemblyInfoInputs.cache
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\netcoreapp3.1\WeatherMonitoringStation.AssemblyInfo.cs
+C:\Users\ajayb\Documents\Prem\WeatherMonitoringStation\obj\Debug\netcoreapp3.1\WeatherMonitoringStation.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+# WeatherMonitoringStation
+ mongoDB server project
